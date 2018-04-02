@@ -1,0 +1,8 @@
+Collecting pandas
+  Using cached pandas-0.22.0-cp27-cp27m-win_amd64.whl
+Requirement not upgraded as not directly required: pytz>=2011k in c:\python27\lib\site-packages (from pandas)
+Requirement not upgraded as not directly required: numpy>=1.9.0 in c:\python27\lib\site-packages (from pandas)
+Requirement not upgraded as not directly required: python-dateutil in c:\python27\lib\site-packages (from pandas)
+Requirement not upgraded as not directly required: six>=1.5 in c:\python27\lib\site-packages (from python-dateutil->pandas)
+Installing collected packages: pandas
+Successfully installed pandas-0.22.0
